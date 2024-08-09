@@ -23,7 +23,7 @@ export default siteConfig({
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
-  '公众号2': 'https://mp.weixin.qq.com/mp/homepage?__biz=MzkxODU1NjM5OQ==&hid=2&sn=b7783180ec241d51aecda9c7fd2518f1',
+  
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
