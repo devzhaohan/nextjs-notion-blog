@@ -16,6 +16,9 @@ export default siteConfig({
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
+  公众号:"https://mp.weixin.qq.com/mp/homepage?__biz=MzkxODU1NjM5OQ==&hid=2&sn=b7783180ec241d51aecda9c7fd2518f1"
+  知乎:"https://zhihu.com"
+    
   // social usernames (optional)
   // twitter: 'transitive_bs',
   // github: 'transitive-bullshit',
