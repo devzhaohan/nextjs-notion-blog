@@ -15,9 +15,6 @@ export default siteConfig({
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
-
-  公众号:"https://mp.weixin.qq.com/mp/homepage?__biz=MzkxODU1NjM5OQ==&hid=2&sn=b7783180ec241d51aecda9c7fd2518f1"
-  知乎:"https://zhihu.com"
     
   // social usernames (optional)
   // twitter: 'transitive_bs',
@@ -65,4 +62,14 @@ export default siteConfig({
   //     pageId: '6a29ebcb935a4f0689fe661ab5f3b8d1'
   //   }
   // ]
+  navigationLinks: [
+    {
+      title: '公众号',
+      pageId: 'https://mp.weixin.qq.com/mp/homepage?__biz=MzkxODU1NjM5OQ==&hid=2&sn=b7783180ec241d51aecda9c7fd2518f1'
+    },
+    {
+      title: '知乎',
+      pageId: 'https://zhihu.com'
+    }
+  ]
 })
